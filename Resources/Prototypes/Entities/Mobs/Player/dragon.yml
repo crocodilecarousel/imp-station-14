@@ -46,7 +46,8 @@
   - type: RandomSprite
     available:
     - enum.DamageStateVisualLayers.Base:
-        alive: Rainbow
+#        alive: Rainbow
+        alive: Hunter # imp
   - type: Sprite
     sprite: Mobs/Aliens/Carps/dragon.rsi
     noRot: true

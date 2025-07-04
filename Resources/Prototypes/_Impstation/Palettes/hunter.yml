@@ -1,0 +1,21 @@
+- type: palette
+  id: Hunter
+  name: Hunter
+  colors:
+    "regal blue": "#1861d5"
+    "regal red": "#951710"
+    "regal magenta": "#d5188d"
+    "regal brown": "#a05212"
+    "regal green": "#0e7f1b"
+    "regal azure": "#18a2d5"
+    "regal gold": "#d58c18"
+    "hunters gold": "#f0d40e"
+    "hunters white": "#fffdf1"
+    "hunters lilac": "#d795f3"
+    "hunters puce": "#ff81e2"
+    "hunters seafoam": "#81ffd1"
+    "hunters moss": "#b1d624"
+    "hunters blood": "#ff4b4b"
+    "lord of the night": "#012090"
+    "lord of the hunt": "#580477"
+    "lord of the deep": "#2e2e2e"
